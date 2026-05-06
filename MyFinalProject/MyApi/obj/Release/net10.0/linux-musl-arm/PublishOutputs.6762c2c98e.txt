@@ -1,0 +1,4 @@
+/workspaces/T/MyFinalProject/publish/appsettings.Development.json
+/workspaces/T/MyFinalProject/publish/appsettings.json
+/workspaces/T/MyFinalProject/publish/MyApi.pdb
+/workspaces/T/MyFinalProject/publish/MyApi
